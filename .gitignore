@@ -1,0 +1,8 @@
+node_modules
+dist
+.tmp
+bower_components
+.idea
+.idea/workspace.xml
+.DS_Store
+build
